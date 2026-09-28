@@ -1,4 +1,4 @@
 # SATS : Scenario-Anchored Topology-Inspired Structural Scoring
-EMNLP 2026 Findings
+Accepted to Findings of EMNLP 2026
 
 code will be released
